@@ -1,0 +1,12 @@
+hey !
+good morning :)
+
+few things that u should know
+
+1. i used h2 as my db
+2. in "conf" class u can see using the services regardless to the controller
+3. i had a problem with the session, didnt have time to look into this that is why i used eager loading instead of lazy
+4. i checked the controller using curl
+5. the total amount of time was around 4-5 hours.
+
+hope i will like it :)
